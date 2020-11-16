@@ -2,9 +2,9 @@ name: Update Recent Blog Posts
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   schedule:
-    - cron:  40 * * * *
+    - cron:  26 * * * *
 
 jobs:
   update:
