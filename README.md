@@ -41,6 +41,10 @@
 ## My Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [H5秒开方案思考与实践](http://caibaojian.com.cn/h5-speed.html)
+- [Vue 中 Axios 的封装和 API 接口的管理](http://caibaojian.com.cn/vue-axios-api.html)
+- [vue源码中值得学习的方法](http://caibaojian.com.cn/vue-code.html)
+- [10个鲜为人知但很实用的Web API](http://caibaojian.com.cn/10-web-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 
