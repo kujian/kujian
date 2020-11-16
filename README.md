@@ -77,8 +77,8 @@
 
 ## My Recent Blog Posts:
 
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
