@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/kujian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](http://caibaojian.com.cn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg' alt='wechat' height='22'>](https://open.weixin.qq.com/qr/code?username=caibaojian_com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='22'>](https://www.zhihu.com/people/jack-cai)  ![Profile views](https://gpvc.arturio.dev/kujian) 
@@ -14,7 +14,7 @@
 7.  回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
 8.  回复「资料」获取群友分享及培训资料
 9.  回复「知识点」下载高清JavaScript知识点图谱
-</div>
+
 
 ## Languages and Tools:
 
