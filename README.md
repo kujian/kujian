@@ -14,6 +14,7 @@
 7.  回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
 8.  回复「资料」获取群友分享及培训资料
 9.  回复「知识点」下载高清JavaScript知识点图谱
+10.  回复「答案」获取前端进阶系列面试题及解析
 
 <br/>  
 
@@ -21,8 +22,6 @@
 📈 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kujian&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ## My Recent Blog Posts:
 
@@ -32,6 +31,15 @@
 - [vue源码中值得学习的方法](http://caibaojian.com.cn/vue-code.html)
 - [10个鲜为人知但很实用的Web API](http://caibaojian.com.cn/10-web-api.html)
 <!-- BLOG-POST-LIST:END -->
+
+## Frontend Interviews
+
+- [前端进阶面试题 #1](https://mp.weixin.qq.com/s/O6ArOwnIeDSCongEFm5wIg)
+- [前端进阶面试题 #2](https://mp.weixin.qq.com/s/CsxdXJuGTFp8allbp1A-1Q)
+- [前端进阶面试题 #3](https://mp.weixin.qq.com/s/YNoMaE_b1FpuK96xbixNWw)
+
+
+
 
 
 
