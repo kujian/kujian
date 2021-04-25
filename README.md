@@ -37,6 +37,24 @@
 - [前端进阶面试题 #1](https://mp.weixin.qq.com/s/O6ArOwnIeDSCongEFm5wIg)
 - [前端进阶面试题 #2](https://mp.weixin.qq.com/s/CsxdXJuGTFp8allbp1A-1Q)
 - [前端进阶面试题 #3](https://mp.weixin.qq.com/s/YNoMaE_b1FpuK96xbixNWw)
+- [前端进阶面试题 #4](https://mp.weixin.qq.com/s/zkFQqw6qPyeSIYQ6OG5qeg)
+- [前端进阶面试题 #5](https://mp.weixin.qq.com/s/uKRN6E6umMw5uFVijUgf4g)
+- [前端进阶面试题 #6](https://mp.weixin.qq.com/s/b5zUkDf-w8IDLXzrHEs01A)
+- [前端进阶面试题 #7](https://mp.weixin.qq.com/s/WhyaFkqg2eEY6IQBOJAP5Q)
+- [前端进阶面试题 #8](https://mp.weixin.qq.com/s/Hu5OVL3JDk4fS6V8XlTLAw)
+- [前端进阶面试题 #9](https://mp.weixin.qq.com/s/Sj85wLkgNGPOv1tmt3NUtw)
+- [前端进阶面试题 #10](https://mp.weixin.qq.com/s/SeFoHRdkFCYE3fqqnbdULA)
+- [前端进阶面试题 #11](https://mp.weixin.qq.com/s/_jjjGUMFJTBVxPJDP-WuUg)
+
+## Top weekly reading
+
+1. [21道关于性能优化的面试题(附答案)](https://mp.weixin.qq.com/s/bx8dHCEXaRwuY1sFdPFWwQ)
+2. [万恶的前端内存泄漏及万善的解决方案](https://mp.weixin.qq.com/s/32N2MlWPn1Ax35X-t0CB_w)
+3. [如何将网站的性能提升十倍以上？](https://mp.weixin.qq.com/s/jOKkWTfyIeeBXxMpxBlmjQ)
+4. [词法作用域与JavaScript的欺骗词法](https://mp.weixin.qq.com/s/A8guxCuM8CADtPn2AMrOvw)
+5. [深入理解 JavaScript 之事件循环(Event Loop)](https://mp.weixin.qq.com/s/OMjpmftKyZh20gc-Trpo9Q)
+6. [JavaScript 中 Promise对象 的部分使用特点](https://mp.weixin.qq.com/s/H0glR1wU5m5vBamZzH_msA)
+7. [在JavaScript中使用Switch(true)模式](https://mp.weixin.qq.com/s/_IsBdjj0V8ikqJpYFjmHJQ)
 
 
 
