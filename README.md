@@ -1,7 +1,7 @@
 
-### Hi there 👋,
+Hi there 👋 ,
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/kujian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](http://caibaojian.com.cn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg' alt='wechat' height='22'>](https://open.weixin.qq.com/qr/code?username=caibaojian_com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='22'>](https://www.zhihu.com/people/jack-cai)  ![Profile views](https://gpvc.arturio.dev/kujian) 
+
 
 欢迎关注我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com) & [微博](https://weibo.com/kujian)，微信后台回复以下关键字获取资源：
 
@@ -26,25 +26,14 @@
 ## My Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [H5秒开方案思考与实践](http://caibaojian.com.cn/h5-speed.html)
-- [Vue 中 Axios 的封装和 API 接口的管理](http://caibaojian.com.cn/vue-axios-api.html)
-- [vue源码中值得学习的方法](http://caibaojian.com.cn/vue-code.html)
-- [10个鲜为人知但很实用的Web API](http://caibaojian.com.cn/10-web-api.html)
+
 <!-- BLOG-POST-LIST:END -->
 
-## Frontend Interviews
+## Article recommend
 
-- [前端进阶面试题 #1](https://mp.weixin.qq.com/s/O6ArOwnIeDSCongEFm5wIg)
-- [前端进阶面试题 #2](https://mp.weixin.qq.com/s/CsxdXJuGTFp8allbp1A-1Q)
-- [前端进阶面试题 #3](https://mp.weixin.qq.com/s/YNoMaE_b1FpuK96xbixNWw)
-- [前端进阶面试题 #4](https://mp.weixin.qq.com/s/zkFQqw6qPyeSIYQ6OG5qeg)
-- [前端进阶面试题 #5](https://mp.weixin.qq.com/s/uKRN6E6umMw5uFVijUgf4g)
-- [前端进阶面试题 #6](https://mp.weixin.qq.com/s/b5zUkDf-w8IDLXzrHEs01A)
-- [前端进阶面试题 #7](https://mp.weixin.qq.com/s/WhyaFkqg2eEY6IQBOJAP5Q)
-- [前端进阶面试题 #8](https://mp.weixin.qq.com/s/Hu5OVL3JDk4fS6V8XlTLAw)
-- [前端进阶面试题 #9](https://mp.weixin.qq.com/s/Sj85wLkgNGPOv1tmt3NUtw)
-- [前端进阶面试题 #10](https://mp.weixin.qq.com/s/SeFoHRdkFCYE3fqqnbdULA)
-- [前端进阶面试题 #11](https://mp.weixin.qq.com/s/_jjjGUMFJTBVxPJDP-WuUg)
+1. [2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)
+2. [2021年总结记录](https://mp.weixin.qq.com/s/zMnxIpxMdDrIyuLxHRnSPw)
+
 
 ## Top weekly reading
 
