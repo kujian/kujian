@@ -1,5 +1,5 @@
 
-Hi there 👋 ,
+# Hi there 👋 I'm JC,
 
 
 
