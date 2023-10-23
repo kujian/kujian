@@ -29,6 +29,11 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+**:Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Article recommend
 
 1. [2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)
