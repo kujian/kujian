@@ -23,6 +23,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kujian&show_icons=true) 
 
+## Follow me
+
+- [我的微博](https://weibo.com/kujian)
+- [我的微信群](https://qdkfweb.cn/go/weixinqun)
+
 ## My website
 
 - [前端开发博客](https://qdkfweb.cn/)
@@ -32,10 +37,13 @@
 - [我的工作室](https://diy.qdkfweb.cn/)
 - [Wordpress主题巴士](https://wp.qdkfweb.cn/)
 
-## Follow me
+## My projects
 
-- [我的微博](https://weibo.com/kujian)
-- [我的微信群](https://qdkfweb.cn/go/weixinqun)
+- [jQuery滚动高亮](https://github.com/kujian/scrollHighlight)
+- [jQuery全能滚动](https://github.com/kujian/power-slider)
+- [jQuery滚动固定](https://github.com/kujian/scrollfix)
+- [jQuery工具提示](https://github.com/kujian/tooltip)
+- [jQuery无缝滚动](http://github.com/kujian/scrollForever)
 
 ## My Recent Blog Posts
 
