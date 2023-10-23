@@ -1,9 +1,9 @@
 
-# Hi there 👋 I'm JC,
+# Hi there 👋 I'm JackCai,
 
 
 
-欢迎关注我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com) & [微博](https://weibo.com/kujian)，微信后台回复以下关键字获取资源：
+欢迎关注我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，微信后台回复以下关键字获取资源：
 
 1.  回复「1024」，领取前端进阶资料，包含小程序、Nodejs、Git等
 2.  回复「Vue」获取 Vue 精选文章
@@ -23,13 +23,28 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kujian&show_icons=true) 
 
-## My Recent Blog Posts:
+## My website
+
+- [前端开发博客](https://qdkfweb.cn/)
+- [前端头条日报](https://toutiao.qdkfweb.cn/)
+- [Github趋势](https://github.qdkfweb.cn/)
+- [微信推文日报](https://weixin.qdkfweb.cn/)
+- [我的工作室](https://diy.qdkfweb.cn/)
+- [Wordpress主题巴士](https://wp.qdkfweb.cn/)
+
+## Follow me
+
+- [我的微博](https://weibo.com/kujian)
+- [我的微信群](https://qdkfweb.cn/go/weixinqun)
+
+## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-**:Recent Activity:**
+
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
