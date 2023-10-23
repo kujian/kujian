@@ -59,6 +59,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#2666](https://github.com/kujian/githubTrending/issues/2666) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+2. ❗ Opened issue [#1520](https://github.com/kujian/frontendDaily/issues/1520) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+3. ❗ Opened issue [#2665](https://github.com/kujian/githubTrending/issues/2665) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+4. ❗ Opened issue [#1519](https://github.com/kujian/frontendDaily/issues/1519) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+5. ❗ Opened issue [#2664](https://github.com/kujian/githubTrending/issues/2664) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
 <!--END_SECTION:activity-->
 
 ## Article recommend
