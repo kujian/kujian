@@ -48,11 +48,11 @@
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20231028 前端开发日报](https://qdkfweb.cn/fe-daily-20231028.html)
 - [20231027 前端开发日报](https://qdkfweb.cn/fe-daily-20231027.html)
 - [20231027 前端开发周报](https://qdkfweb.cn/fe-weekly-20231027.html)
 - [20231026 前端开发日报](https://qdkfweb.cn/fe-daily-20231026.html)
 - [20231025 前端开发日报](https://qdkfweb.cn/fe-daily-20231025.html)
-- [20231024 前端开发日报](https://qdkfweb.cn/fe-daily-20231024.html)
 <!-- BLOG-POST-LIST:END -->
 
 
