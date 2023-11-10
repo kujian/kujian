@@ -48,11 +48,11 @@
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20231110 前端开发日报](https://qdkfweb.cn/fe-daily-20231110.html)
+- [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://qdkfweb.cn/js-map2.html)
+- [20231110 前端开发周报](https://qdkfweb.cn/fe-weekly-20231110.html)
 - [20231109 前端开发日报](https://qdkfweb.cn/fe-daily-20231109.html)
 - [20231108 前端开发日报](https://qdkfweb.cn/fe-daily-20231108.html)
-- [20231107 前端开发日报](https://qdkfweb.cn/fe-daily-20231107.html)
-- [高级前端开发工程师必知：浏览器解析代码、JavaScript代码执行流程、原型链与闭包](https://qdkfweb.cn/js_mind-map1.html)
-- [20231106 前端开发日报](https://qdkfweb.cn/fe-daily-20231106.html)
 <!-- BLOG-POST-LIST:END -->
 
 
