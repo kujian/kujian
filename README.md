@@ -48,11 +48,11 @@
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20231119 前端开发日报](https://qdkfweb.cn/fe-daily-20231119.html)
 - [20231118 前端开发日报](https://qdkfweb.cn/fe-daily-20231118.html)
 - [20231117 前端开发日报](https://qdkfweb.cn/fe-daily-20231117.html)
 - [20231117 前端开发周报](https://qdkfweb.cn/fe-weekly-20231117.html)
 - [如何构建一个仅有2KB大小、无依赖的状态管理器（以及它如何帮我获得两个不同的工作机会）](https://qdkfweb.cn/proxy-magic.html)
-- [20231116 前端开发日报](https://qdkfweb.cn/fe-daily-20231116.html)
 <!-- BLOG-POST-LIST:END -->
 
 
