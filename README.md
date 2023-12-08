@@ -18,11 +18,11 @@
 ## 文章更新
 
 <!-- BLOG-POST-LIST:START -->
-- [20231024 前端开发日报](https://qdkfweb.cn/fe-daily-20231024.html)
-- [20231023 前端开发日报](https://qdkfweb.cn/fe-daily-20231023.html)
-- [20231022 前端开发日报](https://qdkfweb.cn/fe-daily-20231022.html)
-- [20231021 前端开发日报](https://qdkfweb.cn/fe-daily-20231021.html)
-- [20231020 前端开发日报](https://qdkfweb.cn/fe-daily-20231020.html)
+- [20231208 前端开发日报](https://qdkfweb.cn/fe-daily-20231208.html)
+- [20231208 前端开发周报](https://qdkfweb.cn/fe-weekly-20231208.html)
+- [20231207 前端开发日报](https://qdkfweb.cn/fe-daily-20231207.html)
+- [20231206 前端开发日报](https://qdkfweb.cn/fe-daily-20231206.html)
+- [20231205 前端开发日报](https://qdkfweb.cn/fe-daily-20231205.html)
 <!-- BLOG-POST-LIST:END -->
 
 
