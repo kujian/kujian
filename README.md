@@ -1,10 +1,7 @@
 
-# 欢迎, 我是蔡宝坚
+# 你好, 我是蔡宝坚
 
-
-
-关注我：[我的微信公众号](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，[我的微博](https://weibo.com/kujian)，[我的微信群](https://qdkfweb.cn/go/weixinqun)
-
+关注我：[我的微信公众号](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，[我的推文](https://weixin.qdkfweb.cn/)，[我的微博](https://weibo.com/kujian)，[我的微信群](https://qdkfweb.cn/go/weixinqun)
 
 我的网站：[前端开发博客](https://qdkfweb.cn/)，[前端头条日报](https://toutiao.qdkfweb.cn/)，[Github趋势](https://github.qdkfweb.cn/)，[微信推文日报](https://weixin.qdkfweb.cn/)，[我的工作室](https://diy.qdkfweb.cn/)，[Wordpress主题巴士](https://wp.qdkfweb.cn/)
 
@@ -12,10 +9,8 @@
 
 文章总结：[2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)，[2021年总结记录](https://mp.weixin.qq.com/s/zMnxIpxMdDrIyuLxHRnSPw)
 
-<br/>
 
-
-## 文章更新
+## 最新推文和日报
 
 <!-- BLOG-POST-LIST:START -->
 - [20231209 前端开发日报](https://qdkfweb.cn/fe-daily-20231209.html)
