@@ -13,7 +13,9 @@
 ## 最新推文和日报
 
 <!-- BLOG-POST-LIST:START -->
+- [20231212 前端开发日报](https://qdkfweb.cn/fe-daily-20231212.html)
 - [20231211 前端开发日报](https://qdkfweb.cn/fe-daily-20231211.html)
+- [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
 - [20231210 前端开发日报](https://qdkfweb.cn/fe-daily-20231210.html)
 - [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
 - [20231209 前端开发日报](https://qdkfweb.cn/fe-daily-20231209.html)
@@ -21,8 +23,6 @@
 - [20231208 前端开发日报](https://qdkfweb.cn/fe-daily-20231208.html)
 - [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
 - [20231208 前端开发周报](https://qdkfweb.cn/fe-weekly-20231208.html)
-- [20231207 前端开发日报](https://qdkfweb.cn/fe-daily-20231207.html)
-- [20231206 前端开发日报](https://qdkfweb.cn/fe-daily-20231206.html)
 <!-- BLOG-POST-LIST:END -->
 
 
