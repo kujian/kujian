@@ -13,16 +13,16 @@
 ## 最新推文和日报
 
 <!-- BLOG-POST-LIST:START -->
+- [20231215 前端开发日报](https://qdkfweb.cn/fe-daily-20231215.html)
+- [20231215 前端开发周报](https://qdkfweb.cn/fe-weekly-20231215.html)
 - [20231214 前端开发日报](https://qdkfweb.cn/fe-daily-20231214.html)
+- [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
 - [20231213 前端开发日报](https://qdkfweb.cn/fe-daily-20231213.html)
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 - [20231212 前端开发日报](https://qdkfweb.cn/fe-daily-20231212.html)
 - [一个22届被裁前端思想上得转变](https://weixin.qdkfweb.cn/38571.html)
 - [20231211 前端开发日报](https://qdkfweb.cn/fe-daily-20231211.html)
 - [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
-- [20231210 前端开发日报](https://qdkfweb.cn/fe-daily-20231210.html)
-- [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
-- [20231209 前端开发日报](https://qdkfweb.cn/fe-daily-20231209.html)
 <!-- BLOG-POST-LIST:END -->
 
 
