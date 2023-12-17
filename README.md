@@ -10,7 +10,7 @@
 文章总结：[2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)，[2021年总结记录](https://mp.weixin.qq.com/s/zMnxIpxMdDrIyuLxHRnSPw)
 
 
-## 最新推文和日报
+## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
 - [20231216 前端开发日报](https://qdkfweb.cn/fe-daily-20231216.html)
@@ -24,6 +24,11 @@
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 - [20231212 前端开发日报](https://qdkfweb.cn/fe-daily-20231212.html)
 <!-- BLOG-POST-LIST:END -->
+
+## 博客日报
+
+<!-- Frontend-Daily:START -->
+<!-- Frontend-Daily:END -->
 
 
 ## 最近活动
