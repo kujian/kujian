@@ -8,14 +8,12 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest daily posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "DAILY"
           feed_list: "https://qdkfweb.cn/c/news/feed?d,https://qdkfweb.cn/c/weekly/feed?d"
-          comment_tag_name:"Frontend-Daily"
-          max_post_count: 5

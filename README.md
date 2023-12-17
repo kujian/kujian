@@ -27,8 +27,8 @@
 
 ## 博客日报
 
-<!-- Frontend-Daily:START -->
-<!-- Frontend-Daily:END -->
+<!-- DAILY:START -->
+<!-- DAILY:END -->
 
 
 ## 最近活动
