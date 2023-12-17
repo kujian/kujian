@@ -14,6 +14,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [20231216 前端开发日报](https://qdkfweb.cn/fe-daily-20231216.html)
+- [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
 - [14个提高JavaScript代码质量的小技巧](https://qdkfweb.cn/14-tips-to-write-better-javascript.html)
 - [20231215 前端开发日报](https://qdkfweb.cn/fe-daily-20231215.html)
 - [14个提高JavaScript代码质量的小技巧](https://weixin.qdkfweb.cn/38707.html)
@@ -22,7 +23,6 @@
 - [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
 - [20231213 前端开发日报](https://qdkfweb.cn/fe-daily-20231213.html)
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
-- [20231212 前端开发日报](https://qdkfweb.cn/fe-daily-20231212.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 博客日报
