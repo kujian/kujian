@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [给迷茫的朋友一点建议吧，主要是前端方向的。](https://weixin.qdkfweb.cn/38764.html)
 - [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
 - [14个提高JavaScript代码质量的小技巧](https://weixin.qdkfweb.cn/38707.html)
 - [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
-- [一个22届被裁前端思想上得转变](https://weixin.qdkfweb.cn/38571.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 博客日报
