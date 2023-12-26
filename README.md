@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
 - [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
 - [前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://weixin.qdkfweb.cn/38766.html)
-- [面试官：能不能给 Promise 增加取消功能和进度通知功能... 我：？？？](https://weixin.qdkfweb.cn/38765.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
