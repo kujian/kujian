@@ -20,6 +20,10 @@
 - [面试官：能不能给 Promise 增加取消功能和进度通知功能... 我：？？？](https://weixin.qdkfweb.cn/38765.html)
 <!-- BLOG-POST-LIST:END -->
 
+## 微信群
+
+![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png)
+
 ## 博客日报
 
 <!-- DAILY:START -->
