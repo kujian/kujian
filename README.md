@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [ES14数组升级来袭，这六个新API助你高效开发](https://weixin.qdkfweb.cn/38904.html)
 - [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
 - [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
-- [前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://weixin.qdkfweb.cn/38766.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
