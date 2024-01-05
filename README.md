@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [真诚利他](https://weixin.qdkfweb.cn/39047.html)
 - [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
 - [中小型公司三年工作经验的面试经历](https://weixin.qdkfweb.cn/39043.html)
 - [ES14数组升级来袭，这六个新API助你高效开发](https://weixin.qdkfweb.cn/38904.html)
 - [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
-- [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
