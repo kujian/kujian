@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 - [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
 - [真诚利他](https://weixin.qdkfweb.cn/39047.html)
 - [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
 - [中小型公司三年工作经验的面试经历](https://weixin.qdkfweb.cn/39043.html)
-- [ES14数组升级来袭，这六个新API助你高效开发](https://weixin.qdkfweb.cn/38904.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
