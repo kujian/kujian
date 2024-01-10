@@ -38,9 +38,9 @@
 ## 最近活动
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2745](https://github.com/kujian/githubTrending/issues/2745) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
-2. ❗ Opened issue [#1601](https://github.com/kujian/frontendDaily/issues/1601) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-3. ❗ Opened issue [#2744](https://github.com/kujian/githubTrending/issues/2744) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
-4. ❗ Opened issue [#1600](https://github.com/kujian/frontendDaily/issues/1600) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-5. ❗ Opened issue [#2743](https://github.com/kujian/githubTrending/issues/2743) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+1. ❗ Opened issue [#1602](https://github.com/kujian/frontendDaily/issues/1602) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+2. ❗ Opened issue [#2745](https://github.com/kujian/githubTrending/issues/2745) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+3. ❗ Opened issue [#1601](https://github.com/kujian/frontendDaily/issues/1601) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+4. ❗ Opened issue [#2744](https://github.com/kujian/githubTrending/issues/2744) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+5. ❗ Opened issue [#1600](https://github.com/kujian/frontendDaily/issues/1600) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 <!--END_SECTION:activity-->
