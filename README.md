@@ -22,7 +22,7 @@
 
 ## 微信群
 
-![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png?d=2024010302)
+![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png?d=20240112)
 
 ## 博客日报
 
