@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [尤雨溪：Vue2 升级 Vue3 中犯的3个错](https://weixin.qdkfweb.cn/39565.html)
 - [热门阅读：基于 vue3+threejs 实现可视化大屏](https://weixin.qdkfweb.cn/39544.html)
 - [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
 - [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 - [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
-- [真诚利他](https://weixin.qdkfweb.cn/39047.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
