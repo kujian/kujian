@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
 - [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
 - [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
 - [阿里内部首发前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/39775.html)
 - [点赞阅读翻倍：当别人因为React、Vue吵起来时，我们应该做什么](https://weixin.qdkfweb.cn/39657.html)
-- [点赞翻10倍：v-for和v-if为啥不共存？回去等消息吧！答成这鬼样！](https://weixin.qdkfweb.cn/39655.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
