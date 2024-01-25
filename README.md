@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [投票最高！带气泡的可爱龙微信红包封面来了](https://weixin.qdkfweb.cn/39946.html)
 - [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
 - [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
 - [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
 - [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
-- [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
