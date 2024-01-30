@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
 - [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
 - [投票最高！带气泡的可爱龙微信红包封面来了](https://weixin.qdkfweb.cn/39946.html)
 - [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
 - [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
-- [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
