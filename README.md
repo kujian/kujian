@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [前端项目如何准确预估个人工时](https://weixin.qdkfweb.cn/40306.html)
 - [当春节前不想写业务的前端会做什么](https://weixin.qdkfweb.cn/40275.html)
 - [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
 - [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/40155.html)
-- [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
