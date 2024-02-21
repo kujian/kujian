@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
 - [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
 - [前端项目如何准确预估个人工时](https://weixin.qdkfweb.cn/40306.html)
 - [当春节前不想写业务的前端会做什么](https://weixin.qdkfweb.cn/40275.html)
-- [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
