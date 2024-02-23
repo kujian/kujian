@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
 - [面试官：你知道移动端适配吗？](https://weixin.qdkfweb.cn/40554.html)
 - [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
 - [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
-- [前端项目如何准确预估个人工时](https://weixin.qdkfweb.cn/40306.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
