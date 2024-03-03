@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
-- [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/40638.html)
-- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
-- [面试官：你知道移动端适配吗？](https://weixin.qdkfweb.cn/40554.html)
-- [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
-- [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
+- [我的前端工程化宝典，分享给你](https://weixin.qdkfweb.cn/40882.html)
+- [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40883.html)
+- [总结下最近的几场大厂前端实习面试](https://weixin.qdkfweb.cn/40884.html)
+- [面试了一个大专的前端女生，她太太太厉害了](https://weixin.qdkfweb.cn/40836.html)
+- [Vue3 自定义hooks 大集合 你要的自定义hooks 都在这，快来看吧！](https://weixin.qdkfweb.cn/40759.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
