@@ -21,8 +21,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
-
-![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png?d=20240112)
+关注下面微信，回复 加群 拉你进每日更新的前端开发群
+![](https://pic.qdkfweb.cn/uploads/2023/11/weixin.png)
 
 ## 博客日报
 
