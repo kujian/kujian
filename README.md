@@ -27,11 +27,11 @@
 ## 博客日报
 
 <!-- DAILY:START -->
+- [20240308 前端开发周报](https://qdkfweb.cn/fe-weekly-20240308.html)
+- [20240307 前端开发日报](https://qdkfweb.cn/fe-daily-20240307.html)
 - [20240306 前端开发日报](https://qdkfweb.cn/fe-daily-20240306.html)
 - [20240305 前端开发日报](https://qdkfweb.cn/fe-daily-20240305.html)
 - [20240304 前端开发日报](https://qdkfweb.cn/fe-daily-20240304.html)
-- [20240303 前端开发日报](https://qdkfweb.cn/fe-daily-20240303.html)
-- [20240302 前端开发日报](https://qdkfweb.cn/fe-daily-20240302.html)
 <!-- DAILY:END -->
 
 
