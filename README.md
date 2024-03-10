@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
 - [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
 - [今天面试了一个前端女生，当场想给她offer！](https://weixin.qdkfweb.cn/41106.html)
 - [12个冷门但好用的前端工具推荐](https://weixin.qdkfweb.cn/41107.html)
 - [前端实现推送消息的三种方式](https://weixin.qdkfweb.cn/41051.html)
-- [最近面试，Vue3是重点！](https://weixin.qdkfweb.cn/41011.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
