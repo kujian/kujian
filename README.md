@@ -17,7 +17,7 @@
 - [自用的8款AI工具！提升学习/工作/赚钱效率，轻松超过99%的人！](https://weixin.qdkfweb.cn/41244.html)
 - [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
 - [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
-- [今天面试了一个前端女生，当场想给她offer！](https://weixin.qdkfweb.cn/41106.html)
+- [12个冷门但好用的前端工具推荐](https://weixin.qdkfweb.cn/41107.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
