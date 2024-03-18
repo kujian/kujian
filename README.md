@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
 - [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 - [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
 - [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
-- [最近，前端面试真疯了。。。](https://weixin.qdkfweb.cn/41243.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
