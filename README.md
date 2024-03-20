@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
 - [阿里面试回来，想和前端程序员谈一谈（行情）](https://weixin.qdkfweb.cn/41492.html)
 - [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
 - [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
-- [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
