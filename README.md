@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
 - [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41577.html)
-- [【30个图片无损放大的AI网址推荐】高清大图福利get!](https://weixin.qdkfweb.cn/41579.html)
 - [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/41578.html)
+- [【30个图片无损放大的AI网址推荐】高清大图福利get!](https://weixin.qdkfweb.cn/41579.html)
 - [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
 <!-- BLOG-POST-LIST:END -->
 
