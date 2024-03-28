@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [搞副业，从避坑开始，100个小项目快速试错](https://weixin.qdkfweb.cn/41835.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/41793.html)
 - [VSCode主题推荐：风格多样，功能各异，总有一款适合你！](https://weixin.qdkfweb.cn/41744.html)
 - [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
-- [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41577.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
