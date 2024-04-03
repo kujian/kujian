@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/42057.html)
+- [推荐 5 个近期火火火的 GitHub 项目](https://weixin.qdkfweb.cn/42058.html)
 - [当年很流行，现在已经淘汰的移动前端技术，请不要再继续学了！](https://weixin.qdkfweb.cn/41962.html)
 - [如何在繁重的工作中持续成长？](https://weixin.qdkfweb.cn/41944.html)
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
-- [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/41885.html)
-- [手把手教你写出令人窒息的烂代码](https://weixin.qdkfweb.cn/41886.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
