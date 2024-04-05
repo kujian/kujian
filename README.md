@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
 - [一键生成长图登上热榜！](https://weixin.qdkfweb.cn/42097.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/42098.html)
 - [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/42057.html)
 - [推荐 5 个近期火火火的 GitHub 项目](https://weixin.qdkfweb.cn/42058.html)
-- [当年很流行，现在已经淘汰的移动前端技术，请不要再继续学了！](https://weixin.qdkfweb.cn/41962.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
