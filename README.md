@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [超火前端框架：公开叫板 Vue、React，拥有 76k star](https://weixin.qdkfweb.cn/42134.html)
 - [99%的前端小白都做错了！你还在做这些过时的项目吗？](https://weixin.qdkfweb.cn/42135.html)
 - [HR眼中必死的简历](https://weixin.qdkfweb.cn/42136.html)
 - [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
 - [一键生成长图登上热榜！](https://weixin.qdkfweb.cn/42097.html)
-- [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/42098.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
