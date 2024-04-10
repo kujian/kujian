@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里内部 “Vue＋React” 实战笔记，正式开源了！](https://weixin.qdkfweb.cn/42279.html)
+- [观察一下公司里35岁前就进入管理岗位的人，会发现他们都有一个共同特点：就是在30岁前就完成了自己的升职规划](https://weixin.qdkfweb.cn/42280.html)
 - [盘点15个高颜值的Tailwind CSS 前端UI组件库](https://weixin.qdkfweb.cn/42186.html)
 - [有个同事是我见过头脑最清醒的人，攒了200多万，不买房，不结婚，也不生子，他能躺平么？](https://weixin.qdkfweb.cn/42187.html)
 - [某公司leader：面试了个38岁的老哥，把人家否了，能力眼界都没问题，主要是他年纪比我大了一轮，招进来不知道怎么管理](https://weixin.qdkfweb.cn/42188.html)
-- [认识了一个26岁前端小哥，真的有被震惊到！](https://weixin.qdkfweb.cn/42189.html)
-- [做自媒体第一年收入8W+，我发现上班打工真的很耽误赚钱](https://weixin.qdkfweb.cn/42190.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
