@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [简历上什么都写，只会害了你](https://weixin.qdkfweb.cn/42276.html)
+- [HR 谈薪“套路”深，别被忽悠了！师兄教你如何应对](https://weixin.qdkfweb.cn/42277.html)
+- [290k star！炙手可热的公共 API 开源项目，开发者必备宝藏清单！](https://weixin.qdkfweb.cn/42278.html)
 - [阿里内部 “Vue＋React” 实战笔记，正式开源了！](https://weixin.qdkfweb.cn/42279.html)
 - [观察一下公司里35岁前就进入管理岗位的人，会发现他们都有一个共同特点：就是在30岁前就完成了自己的升职规划](https://weixin.qdkfweb.cn/42280.html)
-- [盘点15个高颜值的Tailwind CSS 前端UI组件库](https://weixin.qdkfweb.cn/42186.html)
-- [有个同事是我见过头脑最清醒的人，攒了200多万，不买房，不结婚，也不生子，他能躺平么？](https://weixin.qdkfweb.cn/42187.html)
-- [某公司leader：面试了个38岁的老哥，把人家否了，能力眼界都没问题，主要是他年纪比我大了一轮，招进来不知道怎么管理](https://weixin.qdkfweb.cn/42188.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
