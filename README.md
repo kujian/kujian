@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [当面试HR问你“多久可以入职”时，低情商的人说：随时都可以。而高情商的人这样回答，让HR内心更倾向你！](https://weixin.qdkfweb.cn/42349.html)
+- [去应聘，面试官说&quot;你没工作经验啊&quot;，低情商的人说&quot;我不会，但我愿意学习&quot;，高情商的人这样说话技巧，轻松被录取！](https://weixin.qdkfweb.cn/42350.html)
 - [字节面试过了，来和大家聊一下前端的行情](https://weixin.qdkfweb.cn/42351.html)
 - [HR建议：1、不要接受任何降薪；2、不要轻易签字调岗；3、不要害怕公司威胁；4、跟HR单独谈话记得录](https://weixin.qdkfweb.cn/42352.html)
 - [简历上什么都写，只会害了你](https://weixin.qdkfweb.cn/42276.html)
-- [HR 谈薪“套路”深，别被忽悠了！师兄教你如何应对](https://weixin.qdkfweb.cn/42277.html)
-- [290k star！炙手可热的公共 API 开源项目，开发者必备宝藏清单！](https://weixin.qdkfweb.cn/42278.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
