@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [35岁大厂程序员爆料：为什么HR和猎头招不到人：原本base薪酬标25-40k，面试通过后薪酬只给16k，感觉被侮辱了](https://weixin.qdkfweb.cn/42729.html)
+- [某大厂员工自爆：投百份简历无人问津，一气之下把薪资由2W调为3W，简历改成英文，结果出乎意料](https://weixin.qdkfweb.cn/42731.html)
 - [这是雷军的简历，落魄时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/42633.html)
 - [HR眼中必死的简历](https://weixin.qdkfweb.cn/42634.html)
 - [不知大家发现没有，35岁后，面临被裁的风险，并不是年龄大了，也不是经历跟不上了，更不是能力下滑了，而是领导只顾降本增效了](https://weixin.qdkfweb.cn/42635.html)
-- [当面试HR问你“多久可以入职”时，低情商的人说：随时都可以。而高情商的人这样回答，让HR内心更倾向你！](https://weixin.qdkfweb.cn/42349.html)
-- [去应聘，面试官说&quot;你没工作经验啊&quot;，低情商的人说&quot;我不会，但我愿意学习&quot;，高情商的人这样说话技巧，轻松被录取！](https://weixin.qdkfweb.cn/42350.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
