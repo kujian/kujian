@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue3已成气候（超强）！](https://weixin.qdkfweb.cn/42817.html)
+- [78K Star！解放繁琐的 CSS：探索原子级框架的魅力](https://weixin.qdkfweb.cn/42818.html)
 - [35岁大厂程序员爆料：为什么HR和猎头招不到人：原本base薪酬标25-40k，面试通过后薪酬只给16k，感觉被侮辱了](https://weixin.qdkfweb.cn/42729.html)
+- [某大厂员工爆料，面试跳槽提供流水，28000改成38000，会被发现嘛，有没成功的朋友](https://weixin.qdkfweb.cn/42730.html)
 - [某大厂员工自爆：投百份简历无人问津，一气之下把薪资由2W调为3W，简历改成英文，结果出乎意料](https://weixin.qdkfweb.cn/42731.html)
-- [这是雷军的简历，落魄时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/42633.html)
-- [HR眼中必死的简历](https://weixin.qdkfweb.cn/42634.html)
-- [不知大家发现没有，35岁后，面临被裁的风险，并不是年龄大了，也不是经历跟不上了，更不是能力下滑了，而是领导只顾降本增效了](https://weixin.qdkfweb.cn/42635.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
