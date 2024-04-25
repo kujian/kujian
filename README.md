@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [互联网OS，诞生了！](https://weixin.qdkfweb.cn/43468.html)
 - [开发者的在线工具箱，爆了！](https://weixin.qdkfweb.cn/43469.html)
 - [英语杂志免费下载，每周更新！](https://weixin.qdkfweb.cn/43470.html)
 - [开源字体新体验，火了！](https://weixin.qdkfweb.cn/43471.html)
 - [现代富文本编辑器，太强了](https://weixin.qdkfweb.cn/43472.html)
-- [互联网OS，诞生了！](https://weixin.qdkfweb.cn/43468.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
