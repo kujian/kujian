@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [50个前端实战项目之08：表单波纹](https://weixin.qdkfweb.cn/44359.html)
 - [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
 - [50个前端实战项目之07：拆分登录页面](https://weixin.qdkfweb.cn/44275.html)
 - [50个前端实战项目之06：滚动动画](https://weixin.qdkfweb.cn/44277.html)
 - [50个前端实战项目之05：模糊加载效果。](https://weixin.qdkfweb.cn/44218.html)
-- [双非本科，面试官竟然问我：你和 985/211 比有啥优势？](https://weixin.qdkfweb.cn/44219.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
