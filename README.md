@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [简洁风的冷笑话生成器](https://weixin.qdkfweb.cn/44556.html)
 - [50个前端实战项目之08：表单波纹](https://weixin.qdkfweb.cn/44359.html)
-- [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
 - [50个前端实战项目之07：拆分登录页面](https://weixin.qdkfweb.cn/44275.html)
+- [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
 - [50个前端实战项目之06：滚动动画](https://weixin.qdkfweb.cn/44277.html)
-- [50个前端实战项目之05：模糊加载效果。](https://weixin.qdkfweb.cn/44218.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
