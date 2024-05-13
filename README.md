@@ -14,8 +14,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [本周炫炫炫的前端实战项目](https://weixin.qdkfweb.cn/44818.html)
-- [前端实战12：手风琴效果](https://weixin.qdkfweb.cn/44820.html)
 - [41.1k Star！一个前端开发者必看的资源汇总，涵盖工具、课程、社区及更多！](https://weixin.qdkfweb.cn/44819.html)
+- [前端实战12：手风琴效果](https://weixin.qdkfweb.cn/44820.html)
 - [前端实战11：JS获取按键的键盘码信息](https://weixin.qdkfweb.cn/44643.html)
 - [30天 JavaScript 编程挑战，41K star！](https://weixin.qdkfweb.cn/44644.html)
 <!-- BLOG-POST-LIST:END -->
