@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [炸裂开源！标星 17k 的安卓手机模拟器，无需 root，支持 Windows、Mac 和 Linux！](https://weixin.qdkfweb.cn/47432.html)
+- [这可能是我见过最好最全的Javascript题库！](https://weixin.qdkfweb.cn/47433.html)
 - [Node.js 3个隐藏但非常实用的功能](https://weixin.qdkfweb.cn/47434.html)
 - [标星23.2K！ 一键打包网页变身为跨平台桌面应用神器！](https://weixin.qdkfweb.cn/47258.html)
 - [开源免费、自托管的轻量级笔记服务，支持纯文本和Markdown，支持多语言！](https://weixin.qdkfweb.cn/47260.html)
-- [本周炫炫炫的前端实战项目](https://weixin.qdkfweb.cn/44818.html)
-- [41.1k Star！一个前端开发者必看的资源汇总，涵盖工具、课程、社区及更多！](https://weixin.qdkfweb.cn/44819.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
