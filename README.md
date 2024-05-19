@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
+- [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
 - [炸裂开源！标星 17k 的安卓手机模拟器，无需 root，支持 Windows、Mac 和 Linux！](https://weixin.qdkfweb.cn/47432.html)
 - [这可能是我见过最好最全的Javascript题库！](https://weixin.qdkfweb.cn/47433.html)
-- [Node.js 3个隐藏但非常实用的功能](https://weixin.qdkfweb.cn/47434.html)
-- [标星23.2K！ 一键打包网页变身为跨平台桌面应用神器！](https://weixin.qdkfweb.cn/47258.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
