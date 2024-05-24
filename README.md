@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
+- [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
 - [JavaScript框架又更新了！一文带你读懂React、Next.js、Vue、Nuxt和Svelte等框架的最新动态和趋势。](https://weixin.qdkfweb.cn/47763.html)
 - [前端开发者的宝藏：探索10个最佳免费HTML模板资源（第二弹）](https://weixin.qdkfweb.cn/47764.html)
 - [2024年10个高颜值的免费HTML模板库！](https://weixin.qdkfweb.cn/47765.html)
-- [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/47766.html)
-- [Vue 3 响应式状态揭秘：ref&lpar;&rpar; 函数的魔法](https://weixin.qdkfweb.cn/47683.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
