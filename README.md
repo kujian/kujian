@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [最近前端行情还不错？？？](https://weixin.qdkfweb.cn/48384.html)
+- [38个Vue、Nuxt 和 Vite 技巧、窍门和实践的合集](https://weixin.qdkfweb.cn/48385.html)
 - [Vue 如何处理异步组件加载错误](https://weixin.qdkfweb.cn/48294.html)
 - [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
 - [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
-- [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
-- [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
