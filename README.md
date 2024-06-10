@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
 - [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
 - [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
 - [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
 - [Vite 为什么这么火？](https://weixin.qdkfweb.cn/49088.html)
-- [2024已过半，Web前端还有机会吗?](https://weixin.qdkfweb.cn/49092.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
