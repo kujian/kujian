@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt 4：一个更加完善、更加强大的 Vue 全栈框架](https://weixin.qdkfweb.cn/49317.html)
 - [尤雨溪又出新品了！VuePress 的升级版，更快、更灵活，构建更强大的网站！](https://weixin.qdkfweb.cn/49242.html)
 - [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
 - [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
 - [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
-- [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
