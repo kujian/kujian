@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 状态管理：从Vuex到Pinia，Vue 3官方推荐的状态管理库深度解析](https://weixin.qdkfweb.cn/49582.html)
 - [一个神奇的变量！CSS 中的 infinity：无限可能？](https://weixin.qdkfweb.cn/49403.html)
 - [Nuxt 4：一个更加完善、更加强大的 Vue 全栈框架](https://weixin.qdkfweb.cn/49317.html)
 - [尤雨溪又出新品了！VuePress 的升级版，更快、更灵活，构建更强大的网站！](https://weixin.qdkfweb.cn/49242.html)
 - [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
-- [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
