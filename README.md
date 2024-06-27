@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
 - [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
 - [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
 - [10个 React 开发避坑指南](https://weixin.qdkfweb.cn/50026.html)
 - [12 种 Vue 设计模式](https://weixin.qdkfweb.cn/50031.html)
-- [CSS 秘密武器：25 个小技巧，助你写出更优雅的代码！](https://weixin.qdkfweb.cn/50040.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
