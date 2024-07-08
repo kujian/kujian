@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML DOM 是如何影响性能的？](https://weixin.qdkfweb.cn/50211.html)
-- [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
-- [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
-- [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
-- [10个 React 开发避坑指南](https://weixin.qdkfweb.cn/50026.html)
+- [太酷了，纯 CSS 实现微软、谷歌和苹果的官方 Logo！](https://weixin.qdkfweb.cn/50643.html)
+- [Vue 如何防止 XSS 攻击？](https://weixin.qdkfweb.cn/50654.html)
+- [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
+- [一学就会，教你创建和使用 CSS 变量！](https://weixin.qdkfweb.cn/50666.html)
+- [JavaScript 字符串处理：trim&lpar;&rpar;和replace&lpar;&rpar;](https://weixin.qdkfweb.cn/50670.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
