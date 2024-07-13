@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
 - [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
 - [写出简洁高效的 CSS：我的实战经验和心得分享](https://weixin.qdkfweb.cn/50988.html)
 - [Vue Query 助力现代 Vue 应用数据管理：3 个关键 Hooks 带你轻松驾驭远程数据](https://weixin.qdkfweb.cn/50810.html)
 - [取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/50811.html)
-- [程序员应该怎么做副业？自由职业的干货推荐](https://weixin.qdkfweb.cn/50638.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
