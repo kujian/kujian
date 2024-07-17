@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
 - [CSS 一行代码，让你的网页更美观！](https://weixin.qdkfweb.cn/51278.html)
 - [分析20个顶级网站，我发现网站性能优化中不可忽视的15个盲点！](https://weixin.qdkfweb.cn/51217.html)
 - [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
 - [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
-- [写出简洁高效的 CSS：我的实战经验和心得分享](https://weixin.qdkfweb.cn/50988.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
