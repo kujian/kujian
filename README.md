@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 中那些令人头疼的“未定义”：如何避坑？](https://weixin.qdkfweb.cn/51609.html)
 - [CSS 即将迎来重大更新：if&lpar;&rpar; 条件语句，让你的前端开发代码更灵活更强大！](https://weixin.qdkfweb.cn/51445.html)
 - [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
 - [CSS 一行代码，让你的网页更美观！](https://weixin.qdkfweb.cn/51278.html)
 - [分析20个顶级网站，我发现网站性能优化中不可忽视的15个盲点！](https://weixin.qdkfweb.cn/51217.html)
-- [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
