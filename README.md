@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 - [现代 CSS 表格样式：打造更美观、更易读的表格](https://weixin.qdkfweb.cn/52101.html)
 - [如何在 JavaScript 中撤销 Promise](https://weixin.qdkfweb.cn/52102.html)
 - [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
 - [Nuxt 4 新变化抢先看：从 v3 到 v4 的平滑升级！](https://weixin.qdkfweb.cn/51968.html)
-- [写出让未来的你也能看懂的代码：优化 Vue 组件的 3 个技巧](https://weixin.qdkfweb.cn/51969.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
