@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [现代 CSS 锚点链接和 JavaScript scrollIntoView&lpar;&rpar;的滚动跳转](https://weixin.qdkfweb.cn/52421.html)
 - [CSS 要变天了！ if&lpar;&rpar; 函数、跨文档视图过渡…一大波新特性来袭！](https://weixin.qdkfweb.cn/52334.html)
 - [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 - [现代 CSS 表格样式：打造更美观、更易读的表格](https://weixin.qdkfweb.cn/52101.html)
 - [如何在 JavaScript 中撤销 Promise](https://weixin.qdkfweb.cn/52102.html)
-- [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
