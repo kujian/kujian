@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
 - [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
 - [纯 CSS 打造炫酷自定义范围滑块：无需 JavaScript，也能玩转input 控件！](https://weixin.qdkfweb.cn/52694.html)
 - [2024年JavaScript五大新功能！](https://weixin.qdkfweb.cn/52608.html)
 - [太酷了！用 CSS 让背景渐变动起来！](https://weixin.qdkfweb.cn/52500.html)
-- [上班摸鱼，用 CSS 给文字加特效：渐变、图案，让你的文字更吸睛！](https://weixin.qdkfweb.cn/52420.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
