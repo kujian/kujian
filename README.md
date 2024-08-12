@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [揭秘 Vue.js 组件通信：provide 和 inject 的魔法](https://weixin.qdkfweb.cn/53119.html)
 - [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 - [2024 年 Node.js 开发者必备工具](https://weixin.qdkfweb.cn/52918.html)
 - [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
 - [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
-- [纯 CSS 打造炫酷自定义范围滑块：无需 JavaScript，也能玩转input 控件！](https://weixin.qdkfweb.cn/52694.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
