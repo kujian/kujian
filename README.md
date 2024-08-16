@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
 - [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
 - [“现代 CSS” 太模糊了？ CSS-Next 带你重新认识 CSS 时代！](https://weixin.qdkfweb.cn/53168.html)
 - [揭秘 Vue.js 组件通信：provide 和 inject 的魔法](https://weixin.qdkfweb.cn/53119.html)
-- [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
