@@ -17,7 +17,7 @@
 - [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
 - [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
-- [今年这情况，大家还是多一手准备吧！](https://weixin.qdkfweb.cn/53554.html)
+- [我的 VS Code 配置：插件、主题、快捷键一网打尽！](https://weixin.qdkfweb.cn/53555.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
