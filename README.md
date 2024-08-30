@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
 - [10 个鲜为人知的 JavaScript 高级技巧！](https://weixin.qdkfweb.cn/54118.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
 - [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
-- [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
