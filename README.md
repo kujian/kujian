@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
 - [手把手教你用 Vue.js 和 WebSocket 构建聊天应用](https://weixin.qdkfweb.cn/54250.html)
 - [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
 - [10 个鲜为人知的 JavaScript 高级技巧！](https://weixin.qdkfweb.cn/54118.html)
-- [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
