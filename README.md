@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 进阶指南](https://weixin.qdkfweb.cn/54590.html)
 - [每个 JavaScript 开发者都应该了解的 GitHub 代码库](https://weixin.qdkfweb.cn/54512.html)
 - [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
 - [手把手教你用 Vue.js 和 WebSocket 构建聊天应用](https://weixin.qdkfweb.cn/54250.html)
-- [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
