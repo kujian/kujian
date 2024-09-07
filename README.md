@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [用 HTML、CSS 和 JavaScript 创建颜色选择器](https://weixin.qdkfweb.cn/54766.html)
 - [21 个 必知的 HTML 小技巧，助你提升编码能力](https://weixin.qdkfweb.cn/54710.html)
 - [100 个免费学习编程的网站推荐！](https://weixin.qdkfweb.cn/54665.html)
 - [JavaScript 进阶指南](https://weixin.qdkfweb.cn/54590.html)
 - [每个 JavaScript 开发者都应该了解的 GitHub 代码库](https://weixin.qdkfweb.cn/54512.html)
-- [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
