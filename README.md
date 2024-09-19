@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
 - [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
 - [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
 - [45 个提升 JavaScript 效率的超级技巧](https://weixin.qdkfweb.cn/55089.html)
 - [Vue 3.5 主要更新了啥？](https://weixin.qdkfweb.cn/55090.html)
-- [18个开源项目，助力你的 React 开发效率倍增](https://weixin.qdkfweb.cn/55091.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
