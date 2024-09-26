@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [30 个 JavaScript 小技巧和诀窍：助你写出更简洁高效的代码](https://weixin.qdkfweb.cn/55828.html)
 - [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
 - [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 - [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
 - [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
-- [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
