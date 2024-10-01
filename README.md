@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/55970.html)
 - [12个提升 JavaScript 技能的宝藏网站推荐](https://weixin.qdkfweb.cn/55827.html)
 - [30 个 JavaScript 小技巧和诀窍：助你写出更简洁高效的代码](https://weixin.qdkfweb.cn/55828.html)
 - [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
-- [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
