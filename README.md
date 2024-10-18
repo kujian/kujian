@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
+- [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 - [看了尤雨溪新公司大佬，Vue+React已经玩的炉火纯青！](https://weixin.qdkfweb.cn/56958.html)
 - [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
 - [Vue.js 开发者必备：6 个爆款库助你快速上手！](https://weixin.qdkfweb.cn/56415.html)
-- [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
-- [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
