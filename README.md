@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js 前端开发必备的 10 个 NPM 包及使用实例](https://weixin.qdkfweb.cn/57357.html)
 - [16 个 React UI 库，总有一款能惊艳你！](https://weixin.qdkfweb.cn/57207.html)
 - [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
 - [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 - [看了尤雨溪新公司大佬，Vue+React已经玩的炉火纯青！](https://weixin.qdkfweb.cn/56958.html)
-- [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
