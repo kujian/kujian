@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [45k的前端大佬是怎么对线面试官的。。。](https://weixin.qdkfweb.cn/58074.html)
+- [50+ JavaScript 事件，每个开发者都应该了解！](https://weixin.qdkfweb.cn/58073.html)
 - [五个实用且强大的 HTML5 标签，你不一定知道！](https://weixin.qdkfweb.cn/57960.html)
 - [34 个实用 JavaScript 代码片段：提升开发效率的实用技巧](https://weixin.qdkfweb.cn/57856.html)
 - [“技术大佬”都在用！2024年你不可错过的10个JavaScript库！](https://weixin.qdkfweb.cn/57681.html)
-- [程序员如何“逆袭”：掌握五大技巧，成为团队核心！](https://weixin.qdkfweb.cn/57682.html)
-- [网络工具箱：22 个值得收藏的网站！](https://weixin.qdkfweb.cn/57581.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
