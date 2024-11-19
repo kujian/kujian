@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
+- [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 - [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
 - [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
-- [Vue3 常见的 9 种组件通信机制](https://weixin.qdkfweb.cn/58563.html)
-- [10个简单却有趣的JavaScript面试题，附答案和解释！](https://weixin.qdkfweb.cn/58505.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
