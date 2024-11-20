@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
 - [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 - [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
-- [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
