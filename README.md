@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
 - [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
 - [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
 - [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
-- [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
