@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
 - [ES2024 新特性速览：带你了解 6 个值得关注的更新！](https://weixin.qdkfweb.cn/59711.html)
 - [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
 - [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
-- [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
