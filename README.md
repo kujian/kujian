@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 年的 CSS 革命：您需要了解的 7 个改变游戏规则的功能](https://weixin.qdkfweb.cn/61465.html)
 - [20 个实用的 JavaScript 自动化脚本，提升浏览器效率，解放你的时间！](https://weixin.qdkfweb.cn/60784.html)
 - [再有人问Promise，我就用这 9 个高级用法闪瞎他的眼！](https://weixin.qdkfweb.cn/60391.html)
 - [腾讯宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/60392.html)
 - [告别繁琐的 try-catch：JavaScript 安全赋值运算符 &lpar;?= &rpar; 来了！](https://weixin.qdkfweb.cn/60312.html)
-- [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
