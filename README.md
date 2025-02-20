@@ -13,11 +13,11 @@
 ## 微信推文
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里内部首发2025前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/63788.html)
+- [DeepSeek-R1：国产AI神器，免费好用，60秒建站/游戏！](https://weixin.qdkfweb.cn/63710.html)
 - [前端开发效率翻倍？5个ChatGPT实用技巧助你轻松搞定！](https://weixin.qdkfweb.cn/63631.html)
 - [11个强大的免费AI工具，无需注册！](https://weixin.qdkfweb.cn/63538.html)
 - [一天面了6个前端开发，全是菜鸡！](https://weixin.qdkfweb.cn/63239.html)
-- [10 个实用的CSS技巧！](https://weixin.qdkfweb.cn/61653.html)
-- [2024 年的 CSS 革命：您需要了解的 7 个改变游戏规则的功能](https://weixin.qdkfweb.cn/61465.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
